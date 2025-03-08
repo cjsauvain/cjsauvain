@@ -14,3 +14,5 @@
 📧 Email: cjsauvain@gmail.com  
 🔗 LinkedIn: [Jordan Sauvain](https://www.linkedin.com/in/jordan-sauvain-5b0560171/)  
 🌍 Portfolio in development
+
+[![cjsauvain's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjsauvain)](https://github.com/anuraghazra/github-readme-stats)
