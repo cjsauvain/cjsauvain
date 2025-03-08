@@ -1,7 +1,7 @@
 ## 👨‍💻 About Me
 - 🎓 I'm a 42 Angoulême student.   
 - 💡 I enjoy reverse engineering, packet analysis and coding.  
-- 🔥 Currently looking for an **internship in network security | cybersecurity**.
+- 🔥 Currently looking for an **internship in network administration | cybersecurity**.
   
 ## 🛠️ Skills & Technologies
 🔹 **Programming:** C, C++, Assembly x64, Bash  
