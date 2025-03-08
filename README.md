@@ -9,10 +9,10 @@
 - 🔥 Currently looking for an **internship in network security & system administration**.
   
 ## 🛠️ Skills & Technologies
-🔹 **Programming:** C, C++, Assembly x64, Bash
-🔹 **Networking:** TCP/IP, ICMP, UDP
+🔹 **Programming:** C, C++, Assembly x64, Bash  
+🔹 **Networking:** TCP/IP, ICMP, UDP  
 🔹 **Security:** Packet Analysis, Reverse Engineering  
-🔹 **Tools:** Wireshark, Nmap, Burp Suite, Docker, VMware/VirtualBox
+🔹 **Tools:** Wireshark, Nmap, Burp Suite, Docker, VMware/VirtualBox  
 🔹 **OS:** Linux (Debian, Kali, Ubuntu)
 
 ## 📬 Let's Connect!  
