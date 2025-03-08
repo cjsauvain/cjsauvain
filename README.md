@@ -1,5 +1,3 @@
-## Hi, I am Jordan Sauvain👋 
-
 ## 👨‍💻 About Me
 - 🎓 I'm a 42 Angoulême student.   
 - 💡 I enjoy reverse engineering, packet analysis and coding.  
