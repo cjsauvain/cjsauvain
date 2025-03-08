@@ -1,7 +1,7 @@
 ## Hi, I am Jordan Sauvain👋
 
-🚀 New Cybersecurity & Network Administration Enthusiast | Linux Lover 
-🔎 Passionate about reverse engineering, network security & system administration 
+🚀 New Cybersecurity & Network Administration Enthusiast | Linux Lover  
+🔎 Passionate about reverse engineering, network security & system administration  
 
 ## 👨‍💻 About Me
 - 🎓 I'm a 42 Angoulême student, passionate about cybersecurity & networking. 
