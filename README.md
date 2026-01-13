@@ -7,7 +7,7 @@
 🔹 **Programming:** C, C++, Assembly x64, Bash, Go  
 🔹 **Networking:** TCP/IP, ICMP, UDP  
 🔹 **Security:** Packet Analysis, Reverse Engineering  
-🔹 **Tools:** Wireshark, Nmap, Burp Suite, Docker,Kubernetes, VMware/VirtualBox  
+🔹 **Tools:** Wireshark, Nmap, Burp Suite, Docker, Kubernetes, VMware/VirtualBox  
 🔹 **OS:** Linux (Debian, Kali, Ubuntu)
 
 ## 📬 Let's Connect!  
