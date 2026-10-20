@@ -13,4 +13,4 @@
 ## 📬 Let's Connect!  
 📧 Email: cjsauvain@gmail.com  
 🔗 LinkedIn: [Jordan Sauvain](https://www.linkedin.com/in/jordan-sauvain-5b0560171/)  
-🌍 Portfolio in development
+🌍 Portfolio: https://jordansauvain.com
