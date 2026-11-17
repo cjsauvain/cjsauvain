@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Jordan+%F0%9F%91%8B;AI+%2F+ML+Engineering+student+%40+42;From+C+and+systems+to+machine+learning;Looking+for+a+6-month+internship" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Jordan+%F0%9F%91%8B;AI+%2F+ML+Engineering+student+%40+42+School;From+C+and+systems+to+machine+learning;Looking+for+a+6-month+internship" alt="Typing intro" />
 
 <p>
   <img src="https://img.shields.io/badge/Open%20to-AI%20%7C%20ML%20%7C%20MLOps%20%7C%20Data%20internship-22C55E?style=for-the-badge" alt="Open to internship" />
@@ -18,7 +18,7 @@
 
 ## About me
 
-- 🎓 Student at **42 Angoulême**. I finished the C/systems core curriculum and now build **AI and ML projects in Python**.
+- 🎓 Student at **42 Angoulême**. I finished the C/systems core curriculum and now build **AI and ML projects in Python.**
 - 🧠 I implement models **from scratch** (multilayer perceptron, logistic regression, Q-learning) so I understand what frameworks do under the hood.
 - 🤖 Currently learning to build with **LLMs**: I just finished *call-me-maybe* (function calling with constrained decoding). Next up: *RAG Against the Machine* (retrieval-augmented generation) and *Agent Smith*.
 - ⚙️ Background in **C and systems programming** from the 42 core curriculum.
@@ -39,8 +39,7 @@
       <h3 align="center"><img src="assets/titles/Learn2Slither.svg" alt="🐍 Learn2Slither" height="34"/></h3>
       <p align="center"><i>Reinforcement learning agent (Q-learning)</i></p>
       <p align="center"><a href="https://github.com/cjsauvain/Learn2Slither"><img src="https://raw.githubusercontent.com/cjsauvain/Learn2Slither/main/gif/Learn2Slither.gif" alt="Learn2Slither agent playing" height="200"/></a></p>
-      A snake that learns to play with Q-learning, using only a 4-direction view from its head. Trained models can be exported and reloaded.
-      <!-- EDIT: add your best result, e.g. "<b>average length XX after 100k sessions</b>" -->
+      A snake that learns to play with Q-learning, using only a 4-direction view from its head. Trained models can be exported and reloaded. <b>Best snake length: 58 on a 10×10 board.</b>
     </td>
   </tr>
   <tr></tr> <!-- empty row: keeps every visible row odd, so GitHub does not shade it -->
@@ -54,8 +53,7 @@
       <h3 align="center"><img src="assets/titles/multilayer_perceptron.svg" alt="🧠 multilayer_perceptron" height="34"/></h3>
       <p align="center"><i>Neural network from scratch in NumPy</i></p>
       <p align="center"><a href="https://github.com/cjsauvain/multilayer_perceptron"><img src="https://raw.githubusercontent.com/cjsauvain/multilayer_perceptron/main/images/curves.svg" alt="MLP training curves" height="120"/></a></p>
-      NumPy-only MLP with backpropagation, mini-batches, early stopping and a full CLI pipeline (split, feature analysis, train, predict) for breast-cancer diagnosis (WDBC).
-      <!-- EDIT: add your headline metric, e.g. "<b>XX% validation accuracy, F1 0.XX</b>" -->
+      NumPy-only MLP with backpropagation, mini-batches, early stopping and a full CLI pipeline (split, feature analysis, train, predict) for breast-cancer diagnosis (WDBC). <b>98% accuracy, 97% F1-score.</b>
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><img src="assets/titles/IoT.svg" alt="☸️ IoT" height="34"/></h3>
